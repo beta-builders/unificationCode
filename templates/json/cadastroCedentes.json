@@ -1,0 +1,21 @@
+{
+    "versao": "1",
+    "token": "",
+    "cnpj": "",
+    "cpf": "",
+    "cedente": {
+        "cpf": "",
+        "nome": "",
+        "cep": "",
+        "logradouro": "",
+        "numeroLogradouro": ,
+        "complementoLogradouro": "",
+        "bairro": "",
+        "cidade": "",
+        "uf": "",
+        "telefone": "",
+        "possuiProcurador": "",
+        "quantidadeAssinatura": "",
+        "signatarios": []
+    }
+}

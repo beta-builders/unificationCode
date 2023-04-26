@@ -1,0 +1,29 @@
+cedente:
+  agencia: '1'
+  ano: '23'
+  bairro_cedente: Juliana
+  banco: Banco Inter S.A.
+  bem_objeto: "IM\xD3VEL"
+  carta_credito: '40492'
+  cep_cedente: '31744637'
+  cidade_cedente: Belo Horizonte
+  comp_cedente: nan
+  conta_corrente: 1056761-5
+  contrato_adesao: '4530354'
+  cota: '333'
+  cpf_cedente: 09429248600
+  credito_atual: '58739'
+  data_aquisicao: 17/09/2020
+  data_exclusao: 18/10/2024
+  dia: '04'
+  email_cedente: leonardo.lana@zup.com.br
+  endereco_cedente: Rua Toufic El Awar, 96
+  grupo: '460'
+  mes: '04'
+  nome_cedente: Leonardo Lana
+  percentual_pago: 11,69
+  preco_aquisicao: 0,00
+  preco_aquisicao_extenso: zero
+  saldo_devedor: '0'
+  telefone_cedente: '319947761'
+  uf_cedente: MG

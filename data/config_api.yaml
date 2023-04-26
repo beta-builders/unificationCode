@@ -1,0 +1,53 @@
+cedente:
+  bairro: Juliana
+  cep: '31744637'
+  cidade: Belo Horizonte
+  complementoLogradouro: ''
+  cpf: 09429248600
+  logradouro: Rua Toufic El Awar
+  nome: Leonardo Lana
+  numeroLogradouro: '96'
+  possuiProcurador: 1
+  quantidadeAssinatura: 1
+  signatarios:
+  - cpf: 09429248600
+    dataNascimento: 23/11/1979
+    email: leonardo.lana@zup.com.br
+    fone: '319947761'
+    nome: Leonardo Lana
+    procurador:
+    - null
+    tipoAssinatura: 2
+    tipoDocumentoAssinatura:
+    - documentoId: 7
+      propositosId:
+      - 1
+    - documentoId: 2
+      propositosId:
+      - 10
+      - 11
+  telefone: '319947761'
+  uf: MG
+certificadora:
+  baseUrl: https://ws.assinepelainternet.com.br
+  cnpj: 44395279000125
+  cpfUsuario: 65482426025
+  token: 3f85dd5bfecb63657def7056e80fe238
+coleta:
+  arquivoCnab:
+    conteudo: ./files/CNAB444.rem
+  cedente:
+    cpf: 09429248600
+  dataLimite: 04/11/2023
+  dataVigencia: 04/04/2023
+  documentos:
+  - conteudo: ./templates/pdf/filled_out_contrato_cessao_forms_api.pdf
+    nome: Contrato.pdf
+    tipo: 7
+  nomeColeta: Coleta G460C333
+  tipoTermo: 2
+statusColeta:
+  coletasId:
+  - 3
+  - 4
+  - 5
